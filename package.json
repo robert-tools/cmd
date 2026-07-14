@@ -54,5 +54,6 @@
         "typescript": "^5.9.0"
     },
     "dependencies": {
+        "@robert.tools/log": "^1.0.0"
     }
 }
