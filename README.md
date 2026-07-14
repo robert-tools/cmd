@@ -1,17 +1,13 @@
-# @robert.tools/sample
+# @robert.tools/cmd
 
-A sample package for robert.tools.
+A package to provide command line tools.
 
 ## Installation
 
 ```bash
-npm install @robert.tools/sample
+npm install @robert.tools/cmd
 ```
 
 ## Usage
 
-```typescript
-import { sample } from '@robert.tools/sample';
-
-sample('hello'); // 'sample: hello'
-```
+Documentation for the package's command line tools will be added here.

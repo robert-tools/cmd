@@ -1,7 +1,7 @@
 {
-    "name": "@robert.tools/sample",
+    "name": "@robert.tools/cmd",
     "version": "1.0.0",
-    "description": "A sample package",
+    "description": "A package to provide command line tools.",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "exports": {
@@ -19,16 +19,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/robert-tools/sample.git"
+        "url": "git+https://github.com/robert-tools/cmd.git"
     },
     "bugs": {
-        "url": "https://github.com/robert-tools/sample/issues"
+        "url": "https://github.com/robert-tools/cmd/issues"
     },
-    "homepage": "https://github.com/robert-tools/sample#readme",
+    "homepage": "https://github.com/robert-tools/cmd#readme",
     "keywords": [
         "typescript",
         "node",
-        "sample",
+        "cmd",
         "robert.tools"
     ],
     "author": "Robert Willemelis",
