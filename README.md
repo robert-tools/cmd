@@ -10,8 +10,4 @@ npm install @robert.tools/cmd
 
 ## Usage
 
-```typescript
-import { sample } from '@robert.tools/cmd';
-
-sample('hello'); // 'sample: hello'
-```
+Documentation for the package's command line tools will be added here.
